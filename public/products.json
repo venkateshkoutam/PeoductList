@@ -1,0 +1,27 @@
+[
+    {
+      "productId": 1,
+      "name": "Smartphone",
+      "price": 599,
+      "description": "High-performance smartphone with advanced features."
+    },
+    {
+      "productId": 2,
+      "name": "Laptop",
+      "price": 1299,
+      "description": "Powerful laptop for work and entertainment."
+    },
+    {
+      "productId": 3,
+      "name": "Smartwatch",
+      "price": 199,
+      "description": "Smartwatch with fitness tracking and notification features."
+    },
+    {
+      "productId": 4,
+      "name": "Headphones",
+      "price": 99,
+      "description": "High-quality headphones for immersive audio experience."
+    }
+  ]
+  
